@@ -3,13 +3,14 @@
 
     <footer>
         <div class="footer-container">
-            <div class="developer-info">
+            <!--<div class="developer-info">
                 <p>Desenvolvido por <span class="developer-name">Wesley Barbaro</span></p>
                 <div class="footer-tech">
                     <span class="tech-badge">PHP MVC</span>
                     <span class="tech-badge">Arquitetura</span>
                 </div>
             </div>
+            -->
 
             <div class="footer-content">
                 <div class="footer-section">
